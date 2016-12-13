@@ -28,6 +28,12 @@
             <artifactId>core-maven</artifactId>
             <version>1.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>ua.skillsup</groupId>
+            <artifactId>dao-maven</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
